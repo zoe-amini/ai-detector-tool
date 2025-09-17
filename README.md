@@ -214,7 +214,7 @@ We welcome contributions! Please see our contributing guidelines:
 ### Development Setup
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/zoe-amini/ai-detector-tool
 cd candidate_tool
 
 # Create virtual environment (recommended)
