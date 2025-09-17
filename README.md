@@ -12,7 +12,7 @@ A minimal HTTP server that allows users to upload job candidate submissions and 
 
 1. **Clone or download the project**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/zoe-amini/ai-detector-tool
    cd candidate_tool
    ```
 
